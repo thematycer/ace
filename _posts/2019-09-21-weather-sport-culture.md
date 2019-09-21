@@ -11,8 +11,11 @@ photographer: Emma
 
 * # weather
 
+weather will be and not.
+
 ![image](/ace/images/weather_1.webp)
 
+dont forget to look at
 ![image](/ace/images/cold_but_sunnytwo.jpg)
 
 * # sport
