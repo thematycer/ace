@@ -13,22 +13,10 @@ photographer: Emma
 
 ![image](/ace/images/weather_1.webp)
 
-we need test!!!
-
 ![image](/ace/images/cold_but_sunnytwo.jpg)
 
-teting thhings
+* # sport
 
 ![image](/ace/images/sports_frisby.webp)
 
-bye
-*bye*
-**bye**
-***bye***
-
--
-bye
-*bye*
-**bye**
-***bye***
--
+* # culture
