@@ -22,4 +22,4 @@ Sports aren't very popular in OHOL, becouse most people don't like stop working,
 ![image](/ace/images/sports_frisby.webp)
 
 * # culture
-Culture is heavily overlooked thing in ONOL, and we decided to change that. We want to support literature and culturar places like cinemas, theatres and casinos, but we need your help. It doesn't matter if you can't particape in it, or you just don't want particape. We need you to stop ruining this place by stop stealing baskets from library, stop stealing popcorn from cinemas, stop stealing costumes from theatres and by stop stealing bowls from casinos. Thanks for understanding.
+Culture is heavily overlooked thing in ONOL, and we decided to change that. We want to support literature and culturar places like cinemas, theatres, dance parties and casinos, but we need your help. It doesn't matter if you can't particape in it, or you just don't want particape. We need you to stop ruining this place by stop stealing baskets from library, stop stealing popcorn from cinemas, stop stealing costumes from theatres, letting them to dance and by stop stealing bowls from casinos. Thanks for understanding.
