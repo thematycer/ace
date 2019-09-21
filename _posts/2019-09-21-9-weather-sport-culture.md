@@ -8,9 +8,6 @@ image: /ace/images/cold_but_sunnytwo.jpg  /ace/images/sports_frisby.webp /ace/im
 author: Matycer
 photographer: Emma
 ---
-testest blabal.
-
-
 
 * # weather
 
