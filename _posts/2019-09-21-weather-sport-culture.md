@@ -19,7 +19,7 @@ Datailed weather report:
 ![image](/ace/images/cold_but_sunnytwo.jpg)
 
 * # sport
-Sports aren't very popular in OHOL, becouse most people don't like stop working, but this workaholic behaviors can lead to occupational burnout. But you dont need worry about it anymore, becouse our scientists just discovered sport that need only wooden disc and two, or more player. It is called frisbee!
+Sports aren't very popular in OHOL, becouse most people don't like stop working, but this workaholic behaviors can lead to occupational burnout. But you dont need worry about it anymore, becouse our scientists just discovered sport that need only wooden disc and two, or more players. It is called frisbee!
 
 ![image](/ace/images/sports_frisby.webp)
 
