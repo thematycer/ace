@@ -4,7 +4,7 @@ title: The cold ,but sunny weather!
 description: Weather, sport and culture in short, but very informative post.
 categories: [status]
 header_image: /ace/images/cold_but_sunny.jpg
-image: /ace/images/cold_but_sunnytwo.jpg  /ace/images/sports_frisby.webp /ace/images/weather_1.webp
+image: /ace/images/cold_but_sunnytwo.jpg  /ace/images/sports_frisby.webp /ace/images/weather_1.webp /ace/images/creaper.webp
 author: Matycer
 photographer: Emma
 ---
@@ -23,3 +23,4 @@ Sports aren't very popular in OHOL, becouse most people don't like stop working,
 
 * # culture
 Culture is heavily overlooked thing in ONOL, and we decided to change that. We want to support literature and culturar places like cinemas, theatres, dance parties and casinos, but we need your help. It doesn't matter if you can't particape in it, or you just don't want particape. We need you to stop ruining this place by stop stealing baskets from library, stop stealing popcorn from cinemas, stop stealing costumes from theatres, letting them to dance and by stop stealing bowls from casinos. Thanks for understanding.
+![image](/ace/images/creaper.webp)
